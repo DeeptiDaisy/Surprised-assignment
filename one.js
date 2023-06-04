@@ -15,3 +15,4 @@ let moveZeroes = function (nums) {
         }
     }
 };
+console.log(moveZeroes);
